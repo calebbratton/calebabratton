@@ -1,5 +1,4 @@
 
-![GitHubREADME](https://user-images.githubusercontent.com/43303363/124694732-147f8580-de9f-11eb-8381-750cee11c6ca.png)
 
 
 
