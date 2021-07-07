@@ -1,5 +1,4 @@
-![IMG_0409](https://user-images.githubusercontent.com/43303363/124689487-d5990200-de95-11eb-8f14-941c1e7cf567.jpeg)
-![IMG_0409](https://user-images.githubusercontent.com/43303363/124689539-e77aa500-de95-11eb-8cdd-9e863ed3e8f3.jpeg)
+
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calebabratton&label=Profile%20views&color=0e75b6&style=flat" alt="calebabratton" /> </p>
