@@ -1,9 +1,4 @@
-<!-- ![GitHubREADME](https://user-images.githubusercontent.com/43303363/124695163-ea7a9300-de9f-11eb-9550-3ba37d8c76c4.png)
--->
-
-<img src="https://user-images.githubusercontent.com/43303363/124695163-ea7a9300-de9f-11eb-9550-3ba37d8c76c4.png" width="100" />
-
-
+<img src="https://user-images.githubusercontent.com/43303363/124695750-0d597700-dea1-11eb-850d-642bdfafb077.png" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calebabratton&label=Profile%20views&color=0e75b6&style=flat" alt="calebabratton" /> </p>
  
