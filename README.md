@@ -1,3 +1,4 @@
+![IMG_0409](https://user-images.githubusercontent.com/43303363/124689670-214bab80-de96-11eb-91cb-db0b53ee5831.jpg)
 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 
