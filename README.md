@@ -1,5 +1,7 @@
-![GitHubREADME](https://user-images.githubusercontent.com/43303363/124695163-ea7a9300-de9f-11eb-9550-3ba37d8c76c4.png width = 100%)
+<!-- ![GitHubREADME](https://user-images.githubusercontent.com/43303363/124695163-ea7a9300-de9f-11eb-9550-3ba37d8c76c4.png)
+-->
 
+<img src="https://user-images.githubusercontent.com/43303363/124695163-ea7a9300-de9f-11eb-9550-3ba37d8c76c4.png" width="100" />
 
 
 
